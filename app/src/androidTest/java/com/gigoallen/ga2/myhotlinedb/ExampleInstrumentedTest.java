@@ -1,4 +1,4 @@
-package com.example.ga2.myhotlinedb;
+package com.gigoallen.ga2.myhotlinedb;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
